@@ -1,4 +1,4 @@
-Student Score Analysis Excel Workbook
+Student Score Analysis Excel Workbook 
 📌 Project Overview
 
 This Excel workbook is designed to analyze and visualize student performance across multiple subjects. The project demonstrates essential data analysis skills in Excel, including formulas, data lookup, filtering, and summarization.
